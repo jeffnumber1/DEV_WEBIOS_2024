@@ -1,0 +1,17 @@
+p{
+    font-weight: 900;
+    color: aquamarine;
+    background-color: blueviolet;
+    font-style: italic;
+    line-height: 100%;
+    font-size: 200%;
+}
+
+img {
+    height: 500px;
+    width: 50%;
+}
+
+#paragrafo1{
+    font-size: 4rem;
+}

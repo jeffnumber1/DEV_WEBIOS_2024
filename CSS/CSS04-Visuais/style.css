@@ -1,0 +1,48 @@
+
+/* body{
+    background-image: url("pipoca.jpg");
+    
+    background-size: 100%;
+
+    background-attachment: fixed;
+
+    b
+} */
+
+
+#p1{
+    /* border-color: blueviolet;
+    border-width: 5px;
+    border-style: solid; */
+    border: 7px violet ridge;
+    color: azure;
+}
+
+#p2{
+    border: 5px blueviolet double;
+    text-shadow: 1px 1px 1px rgb(255, 0, 255);
+}
+
+img{
+    right: 30%;
+    width: 30%;
+    border-radius: 100px;
+}
+
+#pipoca{
+
+    box-shadow: 7px 7px 7px blueviolet;
+}
+
+figure{
+    border: 5px blue ridge;
+    border-radius: 100px;
+}
+
+figcaption{
+    text-align: center;
+}
+
+hr{
+    border: 20px groove blue;
+}
