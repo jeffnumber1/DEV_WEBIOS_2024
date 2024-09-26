@@ -26,3 +26,28 @@ input:focus{
 li:nth-of-type(3){
     border: 1px solid orchid;
 }
+
+#p2::after{
+    content: " - aqui nos addemos o after";
+}
+
+#p2::before{
+    content: "Aqui addemos o before - ";
+}
+
+.p3::first-letter{
+    font-size: 5em;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+
+.p3::first-line{
+    background-color:fuchsia;
+    color: white;
+}
+
+#p4::selection{
+    background-color: rgb(255, 0, 140);
+    color: azure;
+}
