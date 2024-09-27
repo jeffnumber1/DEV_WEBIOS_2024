@@ -1,0 +1,21 @@
+#joel{
+    height: 700px;
+    width: 700px;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+@media(max-width: 420px){
+    body{
+        background-color: violet;
+    }
+
+    h1{
+        font-size: 2rem;
+    }
+    #joel{
+        height: 10rem;
+        width: 100%;
+    }
